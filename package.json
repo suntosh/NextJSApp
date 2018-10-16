@@ -1,0 +1,17 @@
+{
+  "name": "nextapp",
+  "version": "1.0.0",
+  "description": "Testing Next and React",
+  "main": "index.js",
+  "dependencies": {
+    "next": "^7.0.2",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Santosh Ahuja",
+  "license": "ISC"
+}
